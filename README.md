@@ -2,10 +2,10 @@
 
 ##Carte
 
-**12 Carte bersaglio**, raggruppate in 4 colori diversi e 3 categorie trasversali (Edifici, Mezzi di trasporto, Persone). Ogni carta bersaglio avrà indicato la categoria di cibo che avrà priorità sulla città stessa.
-**40 Carte Cibo** bianche, divise in 6 categorie, 4 delle quali avranno indicato su quale colore agiscono in modo prioritario.
-**22 Carte Cacca** nere, identiche tra loro
-**6 Carte Azione** grigie, di vario genere
+- **12 Carte bersaglio**, raggruppate in 4 colori diversi e 3 categorie trasversali (Edifici, Mezzi di trasporto, Persone). Ogni carta bersaglio avrà indicato la categoria di cibo che avrà priorità sulla città stessa.
+- **40 Carte Cibo** bianche, divise in 6 categorie, 4 delle quali avranno indicato su quale colore agiscono in modo prioritario.
+- **22 Carte Cacca** nere, identiche tra loro
+- **6 Carte Azione** grigie, di vario genere
 
 ##Svolgimento del round
 
