@@ -46,7 +46,7 @@ Se il mazzo gioco termina prima del mazzo obiettivo, viene creato un nuovo mazzo
 
 Al termine del mazzo obiettivi vengono conteggiate le carte che si trovano nei mazzi punteggio dei giocatori:
 - Ogni carta presente nel mazzo vale uno.
-- Se il giocatore è riuscito a collezionare 3 carte dello stesso colore, avrà un bonus di 6 punti.
+- Se il giocatore è riuscito a collezionare 3 carte dello stesso colore, avrà un bonus di 6 punti (6 punti per ogni tris di colore fatto).
 - Se il giocatore è riuscito a collezionare 4 carte della stessa categoria avrà un bonus di 15 punti.
 
 ## Fine del gioco
